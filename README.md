@@ -7,7 +7,7 @@
 
 - 🚀 Looking forward to collaborate on **Machine Learning Projects!**
 
-- 🤝 Feel free to reach out if you'd like to help on [Whiskers Voice Project](https://github.com/Mysticwaan/Website) 🐈
+- 🤝 Feel free to reach out if you'd like to help on [Whiskers Voice Project](https://github.com/Mysticwaan/Whiskers-Voice) 🐈
 
 - 👨‍💻 All of my projects are available on my [Website!](https://mysticwaan.github.io/CV.github.io/)
 
