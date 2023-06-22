@@ -1,7 +1,7 @@
 <h1 align="center">What's Swinging? 👋, I'm Issa</h1>
 <h3 align="center">A Software Engineer Based in the UK</h3>
 
-- 🔭 I’m currently working on [Security Encryptions Using Triple DES](https://github.com/Mysticwaan/Triple-DES-ImageCrypt-Protecting-Digital-Images-with-Enhanced-Security.#readme-top)🛡️
+- 🔭 I’m currently looking for a role in **ML or AI**
 
 - 🌱 Learning everyday about **Cyber Security and Networking**
 
