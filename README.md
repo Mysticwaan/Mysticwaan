@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **my Dutch is almost as good as my English!**
 
-- 📫 Shoot me a email at: **issa.marwaan@gmail.com**
+- 📫 Shoot me a email : **issa.marwaan@gmail.com**
 
 - 💬 Ask me about **anything!**
 
