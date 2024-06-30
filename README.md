@@ -1,6 +1,6 @@
 <h1 align="center">What's Swinging? 👋, I'm Issa</h1>
 <h3 align="center">A Software Engineer Based in the UK</h3>
-  
+    
 - 🔭 I’m currently looking for a role in **ML or AI** 
 
 - 🌱 Learning everyday about **Cyber Security and Networking**
