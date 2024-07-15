@@ -3,7 +3,7 @@
     
 - 🔭 I’m currently looking for a role in **ML or AI** 
 
-- 🌱 Learning everyday about **Cyber Security and Networking**
+- 🌱 Learning everyday about **Cyber Security and Networking**. 
    
 - 🚀 Looking forward to collaborate on **Machine Learning Projects!**    
      
