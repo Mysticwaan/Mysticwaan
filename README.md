@@ -1,17 +1,5 @@
 <h1 align="center">What's Swinging? 👋, I'm Issa</h1>
 <h3 align="center">A Software Engineer Based in the UK</h3>
-    
-- 🔭 I’m currently looking for a role in **ML or AI** 
-
-- 🌱 Learning everyday about **Cyber Security and Networking**. 
-   
-- 🚀 Looking forward to collaborate on **Machine Learning Projects!**    
-     
-- 🤝 Feel free to reach out if you'd like to help on [Whiskers Voice Project](https://github.com/Mysticwaan/Whiskers-Voice) 🐈
-
-- 👨‍💻 All of my projects are available on my [Website!](https://mysticwaan.github.io/CV.github.io/)
-
-- ⚡ Fun fact: **my Dutch is almost as good as my English!**
 
 - 📫 Shoot me a email : **issa.marwaan@gmail.com**
 
