@@ -1,6 +1,8 @@
 <h1 align="center">What's Swinging? 👋, I'm Issa</h1>
 <h3 align="center">A Software Engineer Based in the UK</h3>
 
+- 🚀 Check out my repos and projects! Explore my GitHub
+
 - 💬 check out my website: [https://marwaan.netlify.app/](https://izzahm.netlify.app/)
   
 - 📫 Shoot me a email : **issa.marwaan@gmail.com**
