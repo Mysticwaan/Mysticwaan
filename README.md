@@ -3,7 +3,7 @@
 
 - 🚀 Check out my repos and projects! Explore my GitHub
 
-- 💬 check out my website: [https://marwaan.netlify.app/](https://izzahm.netlify.app/)
+- 💬 Check out my [website](https://izzahm.netlify.app/) <-
   
 - 📫 Shoot me a email : **issa.marwaan@gmail.com**
 
