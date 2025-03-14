@@ -7,9 +7,10 @@
   
 - 📫 Shoot me a email : **issa.marwaan@gmail.com**
 
-<a  target="_blank" href="https://www.linkedin.com/in/issa-m/">
+<a href="https://www.linkedin.com/in/issa-m/" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/user-attachments/assets/7d129fc6-87c7-4a8d-a01b-7e6700fb2a58" alt="LinkedIn">
 </a>
+
 
 
 <h3 align="left">Languages & Tools:</h3>
