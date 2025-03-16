@@ -5,7 +5,7 @@ $$
 $$
 <h3 align="center">A Software Engineer Based in the UK</h3>
 
-- 🚀 Check out my repos and projects in the pinned tabs!
+## 🚀 Check out my repos and projects in the pinned tabs!
 
 ### [MedicBot](https://github.com/Mysticwaan/MedicBot)
 Description of MedicBot project.
@@ -20,11 +20,11 @@ Description of Mini-Medicbot project.
 Description of Farm-ai project.
 
 
-- 💬 Check out my website by clicking the butterfly: [<img src="https://github.com/user-attachments/assets/7b630ac4-82ce-4897-ab33-cc9d5b08fd25" alt="Website Icon" width="200"/>](https://izzahm.netlify.app/)
+## 💬 Check out my website by clicking the butterfly: [<img src="https://github.com/user-attachments/assets/7b630ac4-82ce-4897-ab33-cc9d5b08fd25" alt="Website Icon" width="200"/>](https://izzahm.netlify.app/)
 
 
   
-- 📫 Shoot me a email : **izzah.medic@gmail.com**
+## 📫 Shoot me a email : **izzah.medic@gmail.com**
 
 
 
