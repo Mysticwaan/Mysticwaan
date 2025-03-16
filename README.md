@@ -5,11 +5,7 @@
 
 - 💬 Check out my [website](https://izzahm.netlify.app/) <-
   
-- 📫 Shoot me a email : **issa.marwaan@gmail.com**
-
-<a href="https://www.linkedin.com/in/issa-m/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/7d129fc6-87c7-4a8d-a01b-7e6700fb2a58" alt="LinkedIn">
-</a>
+- 📫 Shoot me a email : **izzah.medic@gmail.com**
 
 
 
