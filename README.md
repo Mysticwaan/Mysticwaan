@@ -5,8 +5,7 @@ $$
 $$
 <h3 align="center">A Software Engineer Based in the UK</h3>
 
-- 🚀 Check out my repos and projects! Explore my GitHub
-
+- 🚀 Check out my repos and projects in the pinned tabs!
 - 💬 Check out my [website](https://izzahm.netlify.app/) <-
   
 - 📫 Shoot me a email : **izzah.medic@gmail.com**
