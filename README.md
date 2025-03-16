@@ -1,4 +1,8 @@
-<h1 align="center">What's Swinging? 👋, I'm Issa</h1>
+
+
+$$
+\text{Art} = \left( \sum_{i=1}^{n} \text{Passion}_i \times \text{Creativity}_i \right) + \frac{\int_0^{T} \text{Emotion}(t) \, dt}{\text{Discipline}} \times \text{Experience} + \sqrt{\frac{\text{Time}}{\text{Distraction}}}
+$$
 <h3 align="center">A Software Engineer Based in the UK</h3>
 
 - 🚀 Check out my repos and projects! Explore my GitHub
