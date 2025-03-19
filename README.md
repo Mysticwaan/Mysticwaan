@@ -3,9 +3,13 @@
 $$
 \text{Art} = \left( \sum_{i=1}^{n} \text{Passion}_i \times \text{Creativity}_i \right) + \frac{\int_0^{T} \text{Emotion}(t) \, dt}{\text{Discipline}} \times \text{Experience} + \sqrt{\frac{\text{Time}}{\text{Distraction}}}
 $$
+
+
+![1_oNQdz3-wTV8Uo_mainA8xA-1](https://github.com/user-attachments/assets/03d16a07-a0ad-4ec5-825b-2dcbf57ba4d4)
+
 <h3 align="center">A Software Engineer Based in the UK</h3>
 
-## 🚀 Check out my repos and projects in the pinned tabs!
+## 🚀 Check out my repos!
 
 ### [MedicBot](https://github.com/Mysticwaan/MedicBot)
 Description of MedicBot project.
