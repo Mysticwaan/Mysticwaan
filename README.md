@@ -12,7 +12,7 @@ $$
 
 | [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) |
 |---------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|
-| Description of MedicBot project.                 | Description of Whiskers-Voice project.           | Description of Mini-Medicbot project.                      | Description of Farm-ai project.             |
+|  Multi-Purpose Medical Robot           | Cat Translation Device           | Mini-Medical Robot                | Farming Systems Utilizing AI             |
 
 
 
