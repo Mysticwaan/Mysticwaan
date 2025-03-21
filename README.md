@@ -10,10 +10,9 @@ $$
 
 <h3 align="center"> 🚀 Check out my repos!</h3>
 
-| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) |
-|---------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|
-|  Multi-Purpose Medical Robot           | Cat Translation Device           | Mini-Medical Robot                | Farming Systems Utilizing AI             |
-
+| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Robot Farm](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) |
+|---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
+| Multi-Purpose Medical Robot | Farming Systems Utilizing AI | Mini-Medical Robot | Cat Translation Device |
 
 
 
