@@ -17,12 +17,7 @@ $$
 
 
 
-<h2 align="center">💬 Check out my website by clicking the butterfly:</h2>
-<p align="center">
-  <a href="https://izzahcv.netlify.app/">
-    <img src="https://github.com/user-attachments/assets/7b630ac4-82ce-4897-ab33-cc9d5b08fd25" alt="Website Icon" width="200"/>
-  </a>
-</p>
+## 💬 Check out my website by clicking the butterfly: [<img src="https://github.com/user-attachments/assets/7b630ac4-82ce-4897-ab33-cc9d5b08fd25" alt="Website Icon" width="200"/>](https://izzahcv.netlify.app/)
 
 
 ![1_oNQdz3-wTV8Uo_mainA8xA-1](https://github.com/user-attachments/assets/03d16a07-a0ad-4ec5-825b-2dcbf57ba4d4)
