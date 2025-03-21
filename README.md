@@ -10,14 +10,20 @@ $$
 
 <h3 align="center"> 🚀 Check out my repos!</h3>
 
-| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Robot Farm](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) |
+<div align="center">
+
+| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) |
 |---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 | Multi-Purpose Medical Robot | Farming Systems Utilizing AI | Mini-Medical Robot | Cat Translation Device |
 
+</div>
 
+
+<div align="center">
 
 ## 💬 Check out my website by clicking the butterfly: [<img src="https://github.com/user-attachments/assets/7b630ac4-82ce-4897-ab33-cc9d5b08fd25" alt="Website Icon" width="200"/>](https://izzahcv.netlify.app/)
 
+</div>
 
 ![1_oNQdz3-wTV8Uo_mainA8xA-1](https://github.com/user-attachments/assets/03d16a07-a0ad-4ec5-825b-2dcbf57ba4d4)
 
