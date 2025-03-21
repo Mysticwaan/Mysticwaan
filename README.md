@@ -8,19 +8,13 @@ $$
 
 <h3 align="center">A Software Engineer Based in the UK</h3>
 
-## 🚀 Check out my repos!
+<h3 align="center"> 🚀 Check out my repos!</h3>
 
-### [MedicBot](https://github.com/Mysticwaan/MedicBot)
-Description of MedicBot project.
+| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) |
+|---------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------|
+| Description of MedicBot project.                 | Description of Whiskers-Voice project.           | Description of Mini-Medicbot project.                      | Description of Farm-ai project.             |
 
-### [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice)
-Description of Whiskers-Voice project.
 
-### [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot)
-Description of Mini-Medicbot project.
-
-### [Farm-ai](https://github.com/Mysticwaan/Farm-ai)
-Description of Farm-ai project.
 
 
 ## 💬 Check out my website by clicking the butterfly: [<img src="https://github.com/user-attachments/assets/7b630ac4-82ce-4897-ab33-cc9d5b08fd25" alt="Website Icon" width="200"/>](https://izzahcv.netlify.app/)
