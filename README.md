@@ -15,7 +15,7 @@ $$
 | [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) |
 |---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
 | Multi-Purpose Medical Robot | Farming Systems Utilizing AI | Mini-Medical Robot | Cat Translation Device |
-![4e6ade89-7ba2-4421-ba6f-24ca63832bf6](https://github.com/user-attachments/assets/82c958da-4cef-4d85-bcde-f86d49c5d5c1) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967)
+![4e6ade89-7ba2-4421-ba6f-24ca63832bf6](https://github.com/user-attachments/assets/82c958da-4cef-4d85-bcde-f86d49c5d5c1) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967)
 
 
 
