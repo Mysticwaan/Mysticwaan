@@ -14,17 +14,18 @@ $$
 
 | [Home-Lab-AD-setup](https://github.com/Mysticwaan/Home-Lab-AD-setup) | [Home SOC in Azure](https://github.com/Mysticwaan/Home-SOC-in-Azure) | [Packet-Tracer-Lab](https://github.com/Mysticwaan/Packet-Tracer-Lab) |
 |---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|
-| Active Directory Setup Using VirtualBox | Threat Detection with Microsoft Sentinel | Cisco Packet Tracer: Basic Lab Tutorial |
+| Active Directory Setup Using VirtualBox | Threat Detection with Microsoft Sentinel | Cisco Packet Tracer: Basic Lab Tutorial | 
 ![ad setup(1)](https://github.com/user-attachments/assets/e407d109-6cfb-4292-ba5b-4cb81ef195c4) | ![447198855-6be99ecb-e6be-4ec5-b3c7-2d6a9d861e1b(1)](https://github.com/user-attachments/assets/742d8bc0-7b79-455e-bdfd-2c9a47b49ef5) | ![Packet Tracer](https://github.com/user-attachments/assets/b4a6ca2a-a505-47ae-9fee-6c66f6ff5e9b) |
 
 
  
   
 
-| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) |
-|---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|
-| Multi-Purpose Medical Robot | Farming Systems Utilizing AI | Mini-Medical Robot |
-![4e6ade89-7ba2-4421-ba6f-24ca63832bf6](https://github.com/user-attachments/assets/82c958da-4cef-4d85-bcde-f86d49c5d5c1) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967) | ![Untitled jpg(1)](https://github.com/user-attachments/assets/a5d3a5dd-b76b-451a-8f48-edb05ec163bc) |
+| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Jade-Tech!](https://github.com/Mysticwaan/JadeTech) |
+|---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
+| Multi-Purpose Medical Robot | Farming Systems Utilizing AI | Mini-Medical Robot | Jade-Tech 3D Card Game project |
+![4e6ade89-7ba2-4421-ba6f-24ca63832bf6](https://github.com/user-attachments/assets/82c958da-4cef-4d85-bcde-f86d49c5d5c1) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967) | ![Untitled jpg(1)](https://github.com/user-attachments/assets/a5d3a5dd-b76b-451a-8f48-edb05ec163bc) | ![399286177-3703d77a-7b73-4cbf-838e-5bb063af56b6(1)](https://github.com/user-attachments/assets/4f15c099-16bd-4b84-a9d1-599eb35f7c18)
+
 
 
 
