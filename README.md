@@ -6,7 +6,7 @@ $$
 
 
 
-<h3 align="center">A Software Engineer Based in the UK</h3>
+<h3 align="center">A Network Engineer Based in the UK</h3>
 
 <h3 align="center"> 🚀 Check out my repos!</h3>
 
