@@ -12,10 +12,10 @@ $$
 
 <div align="center">
 
-| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) |
-|---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
-| Multi-Purpose Medical Robot | Farming Systems Utilizing AI | Mini-Medical Robot | Cat Translation Device |
-![4e6ade89-7ba2-4421-ba6f-24ca63832bf6](https://github.com/user-attachments/assets/82c958da-4cef-4d85-bcde-f86d49c5d5c1) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967) | ![Untitled jpg(1)](https://github.com/user-attachments/assets/a5d3a5dd-b76b-451a-8f48-edb05ec163bc) | ![Screenshot 2025-03-19 003821(1)](https://github.com/user-attachments/assets/175e06b2-0e28-4b94-80f8-5fbad85e1cab)
+| [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) |
+|---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|
+| Multi-Purpose Medical Robot | Farming Systems Utilizing AI | Mini-Medical Robot |
+![4e6ade89-7ba2-4421-ba6f-24ca63832bf6](https://github.com/user-attachments/assets/82c958da-4cef-4d85-bcde-f86d49c5d5c1) | ![Modern Smart Farming(2)](https://github.com/user-attachments/assets/245293c6-e0c8-4c64-8ec8-cb4199feb967) | ![Untitled jpg(1)](https://github.com/user-attachments/assets/a5d3a5dd-b76b-451a-8f48-edb05ec163bc) |
 
 | [MedicBot](https://github.com/Mysticwaan/MedicBot) | [Farm-ai](https://github.com/Mysticwaan/Farm-ai) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) | [Whiskers-Voice](https://github.com/Mysticwaan/Whiskers-Voice) |
 |---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|---------------------------------------------------|
