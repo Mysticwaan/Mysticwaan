@@ -12,10 +12,10 @@ $$
 
 <div align="center">
 
-| [Home-Lab-AD-setup](https://github.com/Mysticwaan/Home-Lab-AD-setup) | [Home SOC in Azure](https://github.com/Mysticwaan/Home-SOC-in-Azure) | [Mini-Medicbot](https://github.com/Mysticwaan/Mini-Medicbot) |
+| [Home-Lab-AD-setup](https://github.com/Mysticwaan/Home-Lab-AD-setup) | [Home SOC in Azure](https://github.com/Mysticwaan/Home-SOC-in-Azure) | [Packet-Tracer-Lab](https://github.com/Mysticwaan/Packet-Tracer-Lab) |
 |---------------------------------------------------|-----------------------------------------------|-------------------------------------------------------------|
-| Active Directory Setup Using VirtualBox | Threat Detection with Microsoft Sentinel | Mini-Medical Robot |
-![ad setup(1)](https://github.com/user-attachments/assets/e407d109-6cfb-4292-ba5b-4cb81ef195c4) | ![447198855-6be99ecb-e6be-4ec5-b3c7-2d6a9d861e1b(1)](https://github.com/user-attachments/assets/742d8bc0-7b79-455e-bdfd-2c9a47b49ef5) | ![Untitled jpg(1)](https://github.com/user-attachments/assets/a5d3a5dd-b76b-451a-8f48-edb05ec163bc) |
+| Active Directory Setup Using VirtualBox | Threat Detection with Microsoft Sentinel | Cisco Packet Tracer: Basic Lab Tutorial |
+![ad setup(1)](https://github.com/user-attachments/assets/e407d109-6cfb-4292-ba5b-4cb81ef195c4) | ![447198855-6be99ecb-e6be-4ec5-b3c7-2d6a9d861e1b(1)](https://github.com/user-attachments/assets/742d8bc0-7b79-455e-bdfd-2c9a47b49ef5) | ![Packet Tracer](https://github.com/user-attachments/assets/b4a6ca2a-a505-47ae-9fee-6c66f6ff5e9b) |
 
 
  
