@@ -16,7 +16,7 @@ $$
 | Active Directory Setup Using VirtualBox | Threat Detection with Microsoft Sentinel | Cisco Packet Tracer: Basic Lab Tutorial | Secure In-House Conversational AI Using DeepSeek |
 ![ad setup(1)](https://github.com/user-attachments/assets/e407d109-6cfb-4292-ba5b-4cb81ef195c4) | ![447198855-6be99ecb-e6be-4ec5-b3c7-2d6a9d861e1b(1)](https://github.com/user-attachments/assets/742d8bc0-7b79-455e-bdfd-2c9a47b49ef5) | ![Packet Tracer](https://github.com/user-attachments/assets/b4a6ca2a-a505-47ae-9fee-6c66f6ff5e9b) | ![Packet Tracer](https://github.com/user-attachments/assets/75238edc-a447-4d13-a6ec-24deae757867) |
 
-
+# More Projects Down Below
  ![1_oNQdz3-wTV8Uo_mainA8xA-1](https://github.com/user-attachments/assets/03d16a07-a0ad-4ec5-825b-2dcbf57ba4d4)
   
 
@@ -31,9 +31,6 @@ $$
 
 
 </div>
-
-
-![1_oNQdz3-wTV8Uo_mainA8xA-1](https://github.com/user-attachments/assets/03d16a07-a0ad-4ec5-825b-2dcbf57ba4d4)
 
   
 <div align="center"> 
