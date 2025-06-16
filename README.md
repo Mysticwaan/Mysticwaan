@@ -35,7 +35,7 @@ $$
   
 <div align="center"> 
   
-  ## 📫 Shoot me a email : **izzah.medic@gmail.com** 
+  ## 📫 Shoot me a email : **issa.marwaan@gmail.com** 
   
 </div>
 
