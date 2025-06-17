@@ -39,11 +39,6 @@ $$
   
 </div>
 
-<div align="center">
-
-## 💬 Check out my website by clicking the butterfly: [<img src="https://github.com/user-attachments/assets/7b630ac4-82ce-4897-ab33-cc9d5b08fd25" alt="Website Icon" width="200"/>](https://izzahcv.netlify.app/)
-
-</div>
 
 <div align="center"> 
 
