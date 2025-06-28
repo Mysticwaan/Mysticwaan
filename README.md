@@ -15,7 +15,7 @@ $$
 
 <div align="center">
 
-## https://issatech.netlify.app/ Website 📫 Shoot me an email: **issa.marwaan@gmail.com**
+## https://issatech.netlify.app/ ⬅️ Site 📫 Shoot me an email: **issa.marwaan@gmail.com**
 
 </div>
 
