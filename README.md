@@ -13,10 +13,6 @@ $$
 | Active Directory Setup Using VirtualBox | Enterprise & Home Network Hardware Showcase | Cisco Packet Tracer: Basic Lab Tutorial | Threat Detection with Microsoft Sentinel |
 ![ad setup](https://github.com/user-attachments/assets/e407d109-6cfb-4292-ba5b-4cb81ef195c4) | ![network lab](https://github.com/user-attachments/assets/59db5283-2ea2-44cb-a3cc-f2140b228690) | ![packet tracer](https://github.com/user-attachments/assets/b4a6ca2a-a505-47ae-9fee-6c66f6ff5e9b) | ![azure soc](https://github.com/user-attachments/assets/742d8bc0-7b79-455e-bdfd-2c9a47b49ef5) |
 
-<div align="center">
-
-</div>
-
 # :arrow_down: More Projects Down Below :arrow_down:
 
 ![divider](https://github.com/user-attachments/assets/03d16a07-a0ad-4ec5-825b-2dcbf57ba4d4)
