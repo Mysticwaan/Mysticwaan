@@ -15,8 +15,6 @@ $$
 
 <div align="center">
 
-## https://issatech.netlify.app/ ⬅️ Site 📫 Shoot me an email: **issa.marwaan@gmail.com**
-
 </div>
 
 # :arrow_down: More Projects Down Below :arrow_down:
